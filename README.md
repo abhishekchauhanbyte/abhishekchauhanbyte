@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhishekchauhanbyte
+- 👋 Hi, I’m Abhishek Chauhan
 - 👀 I’m interested in web development and data science .
 - 🌱 I’m currently learning django and sql.
 - 💞️ I’m looking to collaborate on innovative development ideas .
