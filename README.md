@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek Chauhan
-- 👀 I’m interested in web development and data science .
+- 👀 I’m interested in computer science & latest AI innovations and working as software engineer .
 - 🌱 I’m currently learning django and sql.
 - 💞️ I’m looking to collaborate on innovative development ideas .
 - 📫 How to reach me ...
